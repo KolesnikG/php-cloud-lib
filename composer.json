@@ -1,5 +1,5 @@
 {
-    "name": "KolesnikG/php-cloud-lib",
+    "name": "sixty-nine-fork/php-cloud-lib",
     "description": "A fork of A library to generate words clouds in PHP",
     "type": "library",
     "keywords": ["cloud"],
